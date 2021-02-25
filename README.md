@@ -4,7 +4,7 @@ Laravel Test with Vue JS.
 
 ## Demo
 
-[https://test-different-roads.herokuapp.com/](https://test-different-roads.herokuapp.com/https://store-pwa.herokuapp.com)
+[https://test-different-roads.herokuapp.com/](https://test-different-roads.herokuapp.com)
 
 
 ## Requirements

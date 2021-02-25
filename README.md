@@ -54,4 +54,9 @@ php artisan migrate:fresh --seed
 ```
 php artisan serve
 ```
+## Sources
 
+```
+
+[https://stackoverflow.com/questions/30849359/getting-mutual-matches-in-sql-server/30849629](Getting mutual matches in SQL Server)
+[https://laravel.com/docs/8.x/eloquent-relationships](Eloquent: Relationships)
